@@ -1,0 +1,52 @@
+body {
+    background-color: blanchedalmond;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.nav{
+    position: relative;
+    top: 5px;
+    justify-content: space-around;
+}
+
+h2{
+    position: absolute;
+    top:25px;
+    display: flex;
+    justify-content: center;
+
+}
+a {
+    text-decoration: none;
+    font-weight: 400;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+fieldset{
+    background:white;
+}
+
+
+.button{
+display: flex;
+justify-content: space-between;
+
+}
+
+.espacemessages{
+    position: absolute;   
+    margin-top: 10px;
+    padding: 10%;
+    text-align: center;
+    display: flex;   
+}
+
+
+.formulaire{
+   top: 60%;
+    padding: 20%;
+}
